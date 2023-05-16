@@ -1,71 +1,138 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
-## Available Scripts
+</div>
 
-In the project directory, you can run:
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3 align="center">Restaurant App</h3>
 
-### `npm test`
+  <p align="center">
+    This is an react project which shows restaurants and their food items with opening hours.
+    <br />
+    <a href="https://github.com/manupranav/restaurant-app"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/manupranav/restaurant-app">View Demo</a>
+    ·
+    <a href="https://github.com/manupranav/restaurant-app/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/manupranav/restaurant-app/issues">Request Feature</a>
+  </p>
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#overview">Overview</a>
+    </li>
+        <li><a href="#built-with">Built With</a></li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+    <li><a href="#contact">Link</a></li>
+  </ol>
+</details>
 
-### `npm run build`
+<!-- Overview -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Overview
+### first page
+[![restaurant-app Preview][product-preview]](https://github.com/manupranav/restaurant-app/blob/main/media/preview.png)
+### second page
+[![restaurant-app Preview][product-preview2]](https://github.com/manupranav/restaurant-app/blob/main/media/preview2.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Built With
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- [![React][react.js]][react-url]
+- [![Bootstrap][bootstrap.com]][bootstrap-url]
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- GETTING STARTED -->
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Getting Started
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+# Clone this repository
+$ git clone https://github.com/manupranav/restaurant-app.git
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+# Go into the repository
+$ cd restaurant-app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#Install requirements
 
-### Analyzing the Bundle Size
+$ npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Run the app
+$ npm start
+```
 
-### Making a Progressive Web App
+<!-- LINK -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Link
 
-### Advanced Configuration
+- GitHub Link: [GitHub](https://github.com/manupranav/restaurant-app)
+- Live Site Link: [Restaurant App](https://myrestaurants-app.netlify.app/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# restaurant-app
+[contributors-shield]: https://img.shields.io/github/contributors/manupranav/restaurant-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/manupranav/restaurant-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/manupranav/restaurant-app.svg?style=for-the-badge
+[forks-url]: https://github.com/manupranav/restaurant-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/manupranav/restaurant-app.svg?style=for-the-badge
+[stars-url]: https://github.com/manupranav/restaurant-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/manupranav/restaurant-app.svg?style=for-the-badge
+[issues-url]: https://github.com/manupranav/restaurant-app/issues
+[license-shield]: https://img.shields.io/github/license/manupranav/restaurant-app.svg?style=for-the-badge
+[license-url]: https://github.com/manupranav/restaurant-app/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/linkedin_username
+[product-screenshot]: images/screenshot.png
+[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[next-url]: https://nextjs.org/
+[react.js]: https://img.shields.io/badge/REACT%20JS-000000?style=for-the-badge&logo=REACT&logoColor=61DBFB
+[react-url]: https://reactjs.org/
+[materialui]: https://img.shields.io/badge/Material%20UI-293462?style=for-the-badge&logo=mui&logoColor=E7F6F2
+[materialui-url]: https://mui.com/
+[vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+[vue-url]: https://vuejs.org/
+[angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[angular-url]: https://angular.io/
+[svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
+[svelte-url]: https://svelte.dev/
+[laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[laravel-url]: https://laravel.com
+[bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[bootstrap-url]: https://getbootstrap.com
+[django.com]: https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white
+[django-url]: https://www.djangoproject.com/
+[sqlite.com]: https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
+[sqlite-url]: https://www.sqlite.org/index.html
+[postgresql.com]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[postgresql-url]: https://www.postgresql.org/
+[jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[jquery-url]: https://jquery.com
+[netlify.com]: https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
+[netlify-url]: https://netlify.com
+[python.org]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+[python-url]: https://www.python.org/
+[tailwindcss.com]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[tailwindcss-url]: https://tailwind.com
+[product-preview]: media/preview.png
+[product-preview2]: media/preview2.png
