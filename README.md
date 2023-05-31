@@ -14,7 +14,7 @@
 
 
 
-<h3 align="center">Restaurant App</h3>
+<h3 align="center">Mine Restaurant</h3>
 
   <p align="center">
     This is an react project which shows restaurants and their food items with opening hours.
